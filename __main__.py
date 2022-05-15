@@ -9,3 +9,5 @@ if __name__ == "__main__":
 
     index.calc_index_level(start_date=backtest_start, end_date=backtest_end)
     index.export_values("export.csv")
+
+print("hello")
