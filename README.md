@@ -1,3 +1,13 @@
+# Note 
+
+I very much enjoyed the coding challenge. I hope to hear back from you with some feedback on what I could (first) improve in my coding habbits. I am looking forward to having technical conversation with Seda and other members of the team about how fixed income indices are computed.
+
+Until then,
+
+Stéphane
+
+
+
 # Assessment Index Modelling
 
 This Code Assessment simulates the scenario of building an index model based on a given guideline. 
